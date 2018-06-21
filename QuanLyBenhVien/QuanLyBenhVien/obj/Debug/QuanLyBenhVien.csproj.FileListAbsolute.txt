@@ -1,0 +1,17 @@
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fAdmin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInfo.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserManage.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInsert.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserAlter.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserDelete.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserRole.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserPrivileges.resources
