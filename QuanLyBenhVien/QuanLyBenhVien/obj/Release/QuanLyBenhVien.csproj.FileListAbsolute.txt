@@ -61,3 +61,6 @@ C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\ora
 C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraociei12.dll
 C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraons.dll
 C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\OraOps12.dll
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\git\ATBM\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe.config
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\git\ATBM\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\git\ATBM\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.pdb
